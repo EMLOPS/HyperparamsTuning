@@ -1,5 +1,6 @@
 # HyperparamsTuning
 Finding the best hyperparams using Optuna and pytorch lightening
+- URL to the <a href='findingbesthyperparams-cnn-pytorchlightening-timm.ipynb'>notebook</a>
 
 See the original Notebook on <a href="https://www.kaggle.com/code/greatcodes/findingbesthyperparams-cnn-pytorchlightening-timm/notebook?scriptVersionId=118853006">Kaggle </a>
 
